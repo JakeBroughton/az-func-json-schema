@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "$schema": "./local.settings.json",
+  "Values": {
+    "AzureWebJobsDashboard": "",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "FUNCTIONS_WORKER_RUNTIME_VERSION": "14",
+
+    // Not covered
+    "languageWorkers:node:arguments": "",
+    "FUNCTIONS_REQUEST_BODY_SIZE_LIMIT": 0
+  },
+  "ConnectionStrings": {},
+  "Host": {},
+
+  "LocalHttpPort": 7071
+}

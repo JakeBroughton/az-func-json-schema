@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "Values": {
+      "properties": {
+        "languageWorkers:node:arguments": {
+          "type": "string",
+          "description": "Arguments to pass to the Node.js worker."
+        },
+        "FUNCTIONS_REQUEST_BODY_SIZE_LIMIT": {
+          "type": "integer",
+          "description": "Maximum size of the request body in bytes."
+        }
+      }
+    },
+    "Host": {
+      "properties": {}
+    }
+  }
+}
